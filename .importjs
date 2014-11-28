@@ -1,0 +1,5 @@
+lookup_paths:
+  - 'lib'
+  - 'node_modules'
+aliases:
+  'fs': 'fs'
