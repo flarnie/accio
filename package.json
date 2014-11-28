@@ -1,5 +1,5 @@
 {
-  "name": "Accio",
+  "name": "accio",
   "version": "1.0.0",
   "description": "Configurable generator creation for JS.",
   "main": "lib/accio.js",
